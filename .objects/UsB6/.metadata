@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge ACME System 1 - Log In",
+  "Type": "App",
+  "Id": "UsB6z1TabUK7Nn2DOq1SnA",
+  "Reference": "ty92xReaDEqWrOrxFN_Z_w/UsB6z1TabUK7Nn2DOq1SnA",
+  "Created": "2026-03-08T11:45:28.2592828Z",
+  "Updated": "2026-03-08T11:45:28.2592828Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.27.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Al Olaya, Riyadh Saudi Arabia to Ghirnat",
+  "Type": "Screen",
+  "Id": "XkFi2rak9kSib4MJFMTXUw",
+  "Reference": "ty92xReaDEqWrOrxFN_Z_w/XkFi2rak9kSib4MJFMTXUw",
+  "ParentRef": "ty92xReaDEqWrOrxFN_Z_w/aetQ918RIkO_xyqB_YaM0A",
+  "Created": "2026-03-09T10:44:04.4591925Z",
+  "Updated": "2026-03-09T10:44:04.4591925Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.27.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

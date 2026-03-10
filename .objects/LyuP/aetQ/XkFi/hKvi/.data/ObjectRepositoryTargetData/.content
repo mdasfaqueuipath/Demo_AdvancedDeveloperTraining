@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eLcuW1A8yE216HmNfZJQOA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/maps/dir/Al+Olaya,+Riyadh+Saudi+Arabia/Ghirnatah,+Riyadh+Saudi+Arabia/@24.74742,46.6613924,13z/data=!4m14!4m13!1m5!1m1!1s0x3e2f033bb824b417:0xdc9745cc4a78b2d2!2m2!1d46.6806472!2d24.695087!1m5!1m1!1s0x3e2efddec1d2908b:0x5a8fbe134285f3a1!2m2!1d46.7439972!2d24.7927017!3e0" DesignTimeRectangle="156, 266, 264, 24" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl aria-label='Destination Ghirnatah, Riyadh Saudi Arabia' tag='INPUT' type='' class='ZBTq6e' aaname='' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="8766b59f-694a-485a-aa0f-052e9fe1e2ed" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Al Olaya, Riyadh Saudi Arabia to Ghirnatah, Riyadh Saudi Arabia - Google Maps' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="108, 269, 24, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='' type='' tag='SPAN' class='lECG9c LIqice google-symbols' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='' /&gt;" Guid="cf6858cd-8756-4a79-8296-712a93eeb58b" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ff5428efd0ce1daa841f905f6a944238.jpg" xmlns="">0dJi4MsVfp0azPlo-n9MFPw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

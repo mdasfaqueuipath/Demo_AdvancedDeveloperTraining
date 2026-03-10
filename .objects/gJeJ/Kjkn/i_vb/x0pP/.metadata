@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Round 1",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "x0pP3QD6DkWxT4ZGLCSlZw",
+  "Reference": "ty92xReaDEqWrOrxFN_Z_w/x0pP3QD6DkWxT4ZGLCSlZw",
+  "ParentRef": "ty92xReaDEqWrOrxFN_Z_w/i_vb4ePYeUqqDE-Z3zCroQ",
+  "Created": "2026-03-08T09:40:18.1436101Z",
+  "Updated": "2026-03-08T09:40:18.1436101Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.27.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "18 min",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "SysOvPo7akOjVTacoNc3yA",
+  "Reference": "ty92xReaDEqWrOrxFN_Z_w/SysOvPo7akOjVTacoNc3yA",
+  "ParentRef": "ty92xReaDEqWrOrxFN_Z_w/XkFi2rak9kSib4MJFMTXUw",
+  "Created": "2026-03-09T10:47:40.9401027Z",
+  "Updated": "2026-03-09T10:47:40.9401027Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.27.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
